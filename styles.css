@@ -4,7 +4,9 @@ body{
 	margin:0;
 }
 
+
 #navbar{
+	
 	padding-left:20px;
 	margin-top:25px;
 	
@@ -43,7 +45,7 @@ main{
 	padding-left:20px;
 }
 
-h1,h2,h3,h4{
+/* h1,h2,h3,h4{
 	display:inline;
-}
+} */
 
