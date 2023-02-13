@@ -3,9 +3,7 @@
 body{
 	margin:0;
 }
-h3{
-	margin:0;
-}
+
 #navbar{
 	padding-left:20px;
 	margin-top:25px;
@@ -19,14 +17,27 @@ header{
 .header{
 	font-size:35px;
 	font-weight:bold;
-	
+}
+ul,ol{
+	padding-left:20px;
+}
+footer{
+	background-color:black;
+	color:white;
 }
 .summary{
 
 	margin-top:20px;
 }
 h3{
-	decoration-text:underline;
+margin-top:25px
+	border:2px solid red;
+	background-color:lightblue;
+	
+}
+h4{
+		background-color:lightblue;
+
 }
 main{
 	padding-left:20px;
