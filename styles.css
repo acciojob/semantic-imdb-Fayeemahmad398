@@ -1,2 +1,25 @@
 
 /* Your CSS Code here. */
+body{
+	margin:0;
+}
+h3{
+	margin:0;
+}
+
+header{
+	padding-left:20px;
+	background-color:lightblue;
+}
+.header{
+	font-size:35px;
+	font-weight:bold;
+	
+}
+.summary{
+
+	margin-top:20px
+}
+main{
+	padding-left:20px;
+}
