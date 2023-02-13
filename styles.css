@@ -6,7 +6,12 @@ body{
 h3{
 	margin:0;
 }
-
+#navbar{
+	padding-left:20px;
+	margin-top:25px;
+	
+	
+}
 header{
 	padding-left:20px;
 	background-color:lightblue;
@@ -18,7 +23,10 @@ header{
 }
 .summary{
 
-	margin-top:20px
+	margin-top:20px;
+}
+h3{
+	decoration-text:underline;
 }
 main{
 	padding-left:20px;
